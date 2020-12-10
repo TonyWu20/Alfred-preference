@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSites</key>
+	<dict>
+		<key>2D931C5C-86C1-45E8-9C93-BE5E30224E97</key>
+		<dict>
+			<key>enabled</key>
+			<false/>
+			<key>keyword</key>
+			<string>pd</string>
+			<key>text</key>
+			<string>Pandas docs search for '{query}'</string>
+			<key>url</key>
+			<string>https://pandas.pydata.org/pandas-docs/stable/search.html?q={query}&amp;check_keywords=yes&amp;area=default</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>9E16CF56-3A6D-4867-A044-CAB560BDAEB7</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>scihub</string>
+			<key>text</key>
+			<string>Sci-hub</string>
+			<key>url</key>
+			<string>https://sci-hub.tw/{query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>C9BE1547-BB70-4752-BA6D-03D9449E5041</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>bento</string>
+			<key>text</key>
+			<string>Search in PolyU lib for '{query}'</string>
+			<key>url</key>
+			<string>https://www.lib.polyu.edu.hk/bento-search?query={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>DAFE3D27-7757-4946-8451-8DEBD04DD32B</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>scholar</string>
+			<key>text</key>
+			<string>Search Google Scholar for '{query}'</string>
+			<key>url</key>
+			<string>https://scholar.google.com.hk/scholar?hl=zh-CN&amp;as_sdt=0%2C5&amp;q={query}&amp;btnG</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

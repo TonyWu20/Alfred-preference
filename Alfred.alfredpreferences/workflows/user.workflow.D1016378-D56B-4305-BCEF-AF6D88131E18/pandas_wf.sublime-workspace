@@ -1,0 +1,1078 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mat",
+				"matplotlib_search\tclass"
+			],
+			[
+				"pandas",
+				"pandas_search\tclass"
+			],
+			[
+				"numpy",
+				"numpy_search\tclass"
+			],
+			[
+				"get",
+				"get_results\tfunction"
+			],
+			[
+				"drive",
+				"driver_path\tstatement"
+			],
+			[
+				"pa",
+				"pandas_search\tclass"
+			],
+			[
+				"time",
+				"timeit\tmodule"
+			],
+			[
+				"make",
+				"makeItemAll"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"find",
+				"find_element_by_xpath"
+			],
+			[
+				"element",
+				"element_to_be_clickable\tclass"
+			],
+			[
+				"Chrome",
+				"ChromeOptions"
+			],
+			[
+				"matplo",
+				"matplotlib"
+			],
+			[
+				"lin",
+				"Link"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"sear",
+				"search_type\tstatement"
+			],
+			[
+				"sea",
+				"search_type\tstatement"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"se",
+				"search\tfunction"
+			],
+			[
+				"arg",
+				"arg_c\tstatement"
+			],
+			[
+				"std",
+				"stdout\tinstance"
+			],
+			[
+				"the",
+				"the_process"
+			],
+			[
+				"is",
+				"isAlive\tfunction"
+			],
+			[
+				"xmajor",
+				"xmajorFormatter\tstatement"
+			],
+			[
+				"ym",
+				"ymajorFormatter\tstatement"
+			],
+			[
+				"ymajor",
+				"ymajorFormatter\tstatement"
+			],
+			[
+				"DOS",
+				"DOS_data"
+			],
+			[
+				"spine",
+				"spines_list"
+			],
+			[
+				"second",
+				"second_grad_ylim"
+			],
+			[
+				"__an",
+				"__analysis_2"
+			],
+			[
+				"__anal",
+				"__analysis_2\tstatement"
+			],
+			[
+				"defa",
+				"default_timer\tstatement"
+			],
+			[
+				"sc",
+				"script_ed"
+			],
+			[
+				"target_",
+				"target_list\tstatement"
+			],
+			[
+				"subplot_",
+				"subplot_grad_fst\tfunction"
+			],
+			[
+				"subplot_grad",
+				"subplot_grad_sec\tfunction"
+			],
+			[
+				"subplot_gr",
+				"subplot_grad_fst"
+			],
+			[
+				"sub",
+				"subplot_dos\tfunction"
+			],
+			[
+				"pre",
+				"pre_fig\tfunction"
+			],
+			[
+				"__data_",
+				"__data_1\tstatement"
+			],
+			[
+				"__inn",
+				"__inner_grid_1\tstatement"
+			],
+			[
+				"__inner",
+				"__inner_grid_2\tstatement"
+			],
+			[
+				"maxima",
+				"maxima_plot"
+			],
+			[
+				"target",
+				"target_input"
+			],
+			[
+				"plot",
+				"Plot_compare"
+			],
+			[
+				"data",
+				"data\tfunction"
+			],
+			[
+				"__data",
+				"__data_1\tstatement"
+			],
+			[
+				"__a",
+				"__analysis_2\tstatement"
+			],
+			[
+				"first",
+				"fisrt_grad\tfunction"
+			],
+			[
+				"tar",
+				"target_list\tstatement"
+			],
+			[
+				"targe",
+				"target_list\tstatement"
+			],
+			[
+				"DOS_",
+				"DOS_data\tclass"
+			],
+			[
+				"work",
+				"work_type\tstatement"
+			],
+			[
+				"Plot",
+				"Plot_compare\tclass"
+			],
+			[
+				"da",
+				"data\tfunction"
+			],
+			[
+				"__da",
+				"__data_2\tstatement"
+			],
+			[
+				"__input",
+				"__input_2"
+			],
+			[
+				"__inpu",
+				"__input_1"
+			],
+			[
+				"__out",
+				"__outer_grid"
+			],
+			[
+				"con",
+				"constrained_layout"
+			],
+			[
+				"fig",
+				"figsize"
+			],
+			[
+				"legne",
+				"legend_properties\tstatement"
+			],
+			[
+				"def",
+				"default_timer\tstatement"
+			],
+			[
+				"__key",
+				"__keynums_pk"
+			],
+			[
+				"set",
+				"set_gridwidth\tfunction"
+			],
+			[
+				"sec",
+				"second_grad_ylim\tfunction"
+			],
+			[
+				"font",
+				"fontweight"
+			],
+			[
+				"set_yl",
+				"set_ylabel"
+			],
+			[
+				"grad",
+				"grad1"
+			],
+			[
+				"ylim",
+				"ylim_top\tstatement"
+			],
+			[
+				"lim_",
+				"lim_bottom\tstatement"
+			],
+			[
+				"fir",
+				"first_grad_ylim\tfunction"
+			],
+			[
+				"all",
+				"alldata\tstatement"
+			],
+			[
+				"__in",
+				"__inner_grid\tstatement"
+			],
+			[
+				"max_",
+				"max_y\tstatement"
+			],
+			[
+				"dos",
+				"dos_data\tfunction"
+			],
+			[
+				"tic",
+				"tick_params"
+			],
+			[
+				"spin",
+				"spines_list"
+			],
+			[
+				"spines",
+				"spines_list\tstatement"
+			],
+			[
+				"set_major",
+				"set_major_formatter"
+			],
+			[
+				"ymajo",
+				"ymajorFormatter"
+			],
+			[
+				"in",
+				"in"
+			],
+			[
+				"__keynam",
+				"__keynames_df"
+			],
+			[
+				"func",
+				"func_ed\tstatement"
+			],
+			[
+				"targ",
+				"target\tstatement"
+			],
+			[
+				"scri",
+				"script_st\tstatement"
+			],
+			[
+				"Data",
+				"DataFrame"
+			],
+			[
+				"maxi",
+				"maxima_points"
+			],
+			[
+				"maxima_",
+				"maxima_points"
+			],
+			[
+				"max",
+				"maxima_anal"
+			],
+			[
+				"maxim",
+				"maxima_loc"
+			],
+			[
+				"grat",
+				"greater\tinstance"
+			],
+			[
+				"x",
+				"x_data"
+			],
+			[
+				"y",
+				"y_data"
+			],
+			[
+				"to_",
+				"to_numpy"
+			],
+			[
+				"to",
+				"to_numpy"
+			],
+			[
+				"__",
+				"__datapool"
+			],
+			[
+				"f",
+				"filling_mp"
+			],
+			[
+				"P",
+				"Pool\tfunction"
+			],
+			[
+				"_file",
+				"__file_two"
+			],
+			[
+				"__file",
+				"__file_one"
+			],
+			[
+				"pl",
+				"pyplot\tmodule"
+			],
+			[
+				"Fo",
+				"FormatStrFormatter\tclass"
+			],
+			[
+				"xmajo",
+				"xmajorlocator\tstatement"
+			],
+			[
+				"yamjor",
+				"ymajorFormatter"
+			],
+			[
+				"key",
+				"keynames"
+			],
+			[
+				"__keyn",
+				"__keynums\tstatement"
+			],
+			[
+				"leg",
+				"legend_properties\tstatement"
+			],
+			[
+				"__sub",
+				"__subtitle_bulk"
+			],
+			[
+				"__subt",
+				"__subtitle_opt\tstatement"
+			],
+			[
+				"df_s",
+				"df_s"
+			],
+			[
+				"__src_pk",
+				"__src_pk_opt\tstatement"
+			],
+			[
+				"__src",
+				"__src_dc\tstatement"
+			],
+			[
+				"add",
+				"add_gridspec"
+			],
+			[
+				"job",
+				"jobtype"
+			],
+			[
+				"ymaj",
+				"ymajorFormatter\tstatement"
+			],
+			[
+				"xma",
+				"xmajorFormatter\tstatement"
+			],
+			[
+				"Null",
+				"NullFormatter\tclass"
+			],
+			[
+				"jo",
+				"jobtype"
+			],
+			[
+				"label",
+				"labelpad"
+			],
+			[
+				"for",
+				"FormatStrFormatter\tclass"
+			],
+			[
+				"loca",
+				"Locator\tclass"
+			],
+			[
+				"yl",
+				"ylabels\tstatement"
+			],
+			[
+				"ylabel",
+				"ylabels\tstatement"
+			],
+			[
+				"__no",
+				"__normfac"
+			],
+			[
+				"nor",
+				"normalize_all\tfunction"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"selec",
+				"UI: Select Color Scheme"
+			],
+			[
+				"guna",
+				"Guna"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"select",
+				"UI: Select Color Scheme"
+			],
+			[
+				"colors",
+				"UI: Select Color Scheme"
+			],
+			[
+				"select schem",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color high",
+				"Color Highlight: Color Highlight Current File"
+			],
+			[
+				"color highl",
+				"Color Highlight: Color Highlight Current File"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"colir",
+				"Color Highlight: Color Highlight Current File"
+			],
+			[
+				"cocl",
+				"Color Highlight: Color Highlight Current File"
+			],
+			[
+				"sele",
+				"UI: Select Color Scheme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"pushg",
+				"Git: Push Tags"
+			],
+			[
+				"DIFF",
+				"Git: Diff Current File"
+			],
+			[
+				"ski",
+				"UI: Select Skin"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"schem",
+				"UI: Select Color Scheme"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Installl",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"skin",
+				"UI: Select Skin"
+			],
+			[
+				"anaconda",
+				"Anaconda: Run Current File Tests"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git: ad",
+				"Git: Add Current File"
+			],
+			[
+				"git:add",
+				"Git: Add Current File"
+			],
+			[
+				"git:push",
+				"Git: Push"
+			],
+			[
+				"git:co",
+				"Git: Commit"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"gitadd",
+				"Git: Add Current File"
+			],
+			[
+				"Select",
+				"UI: Select Theme"
+			],
+			[
+				"",
+				"Anaconda: Next lint error"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"clear",
+				"LaTeXTools: Clear current bibliography cache"
+			],
+			[
+				"word",
+				"LaTeXTools: Show word count"
+			],
+			[
+				"wo",
+				"LaTeXTools: Show word count"
+			],
+			[
+				"count",
+				"LaTeXTools: Show word count"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"latextools:c",
+				"LaTeXTools: Show word count"
+			],
+			[
+				"build",
+				"Build With: LaTeX - PdfLaTeX"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/TonyWu 1/Library/Application Support/Alfred 3/Alfred.alfredpreferences/workflows/user.workflow.D1016378-D56B-4305-BCEF-AF6D88131E18"
+	],
+	"file_history":
+	[
+		"/Users/TonyWu 1/Library/Application Support/Alfred 3/Alfred.alfredpreferences/workflows/user.workflow.D1016378-D56B-4305-BCEF-AF6D88131E18/search.py",
+		"/Users/TonyWu 1/Library/Application Support/Alfred 3/Alfred.alfredpreferences/workflows/user.workflow.D1016378-D56B-4305-BCEF-AF6D88131E18/test.py",
+		"/Users/TonyWu 1/Library/Application Support/Alfred 3/Alfred.alfredpreferences/workflows/user.workflow.D1016378-D56B-4305-BCEF-AF6D88131E18/pandas-search.py",
+		"/Users/TonyWu 1/.jupyter/custom/custom.css",
+		"/Users/TonyWu 1/Documents/兴趣/python/DOS_deriv_anal.py",
+		"/Users/TonyWu 1/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/TonyWu 1/Library/Application Support/Sublime Text 3/Packages/Anaconda/Default (OSX).sublime-keymap",
+		"/Users/TonyWu 1/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/TonyWu 1/Documents/兴趣/python/dos_plot.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/data_plot.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/multidos_plot.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/dos_plot_Ni.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/createxlsx.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/DOS_processing_Ni.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/alloy_DOS_filling_compare.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/DOS_processing_alloy.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/normalization_Pd3Cu.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/dos_excel_convert_hdf5.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/dos_plot_alloy.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/h5toxlsx.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/DOS_processing.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/testclass.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/test_dc_y.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/test_bandwidth.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/plot_dbandwidth.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/plot_dbandcenter.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/plot_fermi.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/plot_energy.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/plot-mp-compare.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/test_lim.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/grid_test.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/test_split.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/DOS_hdf5_multi_input.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/multiplottest.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/plot-mp.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/dbandw2-mp.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/DOS_of_Ni_111.xlsx",
+		"/Users/TonyWu 1/Documents/兴趣/python/DOS_processing.sublime-workspace",
+		"/Users/TonyWu 1/Documents/兴趣/python/pickddos_hdf5.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/dband-mp-readddos.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/dband-mp.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/test_read.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/pickddos.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/dbandpeak.py",
+		"/Users/TonyWu 1/Library/Application Support/Sublime Text 3/Packages/AutoPEP8/AutoPep8.sublime-settings",
+		"/Users/TonyWu 1/Documents/兴趣/python/dbandwidth_total.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/fermiLevel.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/testplot.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/dband-cutoff-mp-ddos.py",
+		"/Users/TonyWu 1/Library/Application Support/Sublime Text 3/Packages/User/AutoPep8.sublime-settings",
+		"/Users/TonyWu 1/Documents/兴趣/python/rearrange_dcenter.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/plot.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/plot-mp",
+		"/Users/TonyWu 1/Documents/兴趣/python/testmpplot.py",
+		"/Users/TonyWu 1/Documents/兴趣/python/dband.py",
+		"/Users/TonyWu 1/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/TonyWu 1/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/TonyWu 1/Library/Application Support/Sublime Text 3/Packages/User/Python3",
+		"/Users/TonyWu 1/Library/Mobile Documents/com~apple~CloudDocs/RA/Paper/rsc-commtemplate/pd.tex",
+		"/Users/TonyWu 1/Library/Mobile Documents/com~apple~CloudDocs/RA/Paper/supporting information/Supporting_information.tex",
+		"/Users/TonyWu 1/Library/Mobile Documents/com~apple~CloudDocs/RA/Paper/mdpi/Surface_Reactivity_of_Pd3Cu_in_Oxygen_Reduction_Reaction/Surface Reactivity of Pd3Cu in Oxygen Reduction Reaction.tex",
+		"/Users/TonyWu 1/Library/Mobile Documents/com~apple~CloudDocs/RA/Paper/rsc-commtemplate/pd.log",
+		"/Users/TonyWu 1/Library/Mobile Documents/com~apple~CloudDocs/RA/Paper/rsc-commtemplate/2.tex",
+		"/Users/TonyWu 1/Library/Mobile Documents/com~apple~CloudDocs/RA/Paper/rsc-commtemplate/Pd3Cu.tex",
+		"/Users/TonyWu 1/Downloads/rsc-commtemplate/Pd3Cu.tex",
+		"/Users/TonyWu 1/Library/Mobile Documents/com~apple~CloudDocs/Lab report/Exp3/ABCT3780 exp3.tex",
+		"/Users/TonyWu 1/Library/Application Support/Sublime Text 3/Packages/LaTeXTools/LaTeXTools Preferences.sublime-settings.OLD",
+		"/Users/TonyWu 1/Library/Mobile Documents/com~apple~CloudDocs/FYP Proposal Final Draft-Wu Tong.pdf"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 115.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"f'{path}/chromedriver'",
+			"subplot_dos"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"driver_path",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/TonyWu 1/Library/Application Support/Alfred 3/Alfred.alfredpreferences/workflows/user.workflow.D1016378-D56B-4305-BCEF-AF6D88131E18"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 69.0
+	},
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 110.0
+	},
+	"output.latextools":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "Packages/User/python3.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 89.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"dre",
+				"DOS_deriv_anal.py"
+			],
+			[
+				"",
+				"DOS_deriv_anal.py"
+			],
+			[
+				"data",
+				"data_plot.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
