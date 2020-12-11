@@ -1,104 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>bundleid</key>
-	<string></string>
-	<key>category</key>
-	<string>Tools</string>
-	<key>connections</key>
-	<dict>
-		<key>6AF6CD1A-B591-4606-A916-39F8CDD640BA</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>953E30AE-BBD0-4522-9408-A434C4D0EADE</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-	</dict>
-	<key>createdby</key>
-	<string>Robert</string>
-	<key>description</key>
-	<string>Toggling Display between  Landscape and Portrait modes</string>
-	<key>disabled</key>
-	<false/>
-	<key>name</key>
-	<string>DisplayRotate</string>
-	<key>objects</key>
-	<array>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>rotate</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Toggling Display between  Landscape and Portrait modes</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>6AF6CD1A-B591-4606-A916-39F8CDD640BA</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>68</integer>
-				<key>script</key>
-				<string>-- Toggling Display between only two modes - landscape and portrait-- Set these to match your monitor's portrait and landscape modes-- For example, on my monitor, Landscape mode is 'Standard' (item 1 in the rotate menu)-- On my monitor, Portrait mode is '90°' (item 2 in the rotate menu)property rotationDirectionLandscape : 1 -- rotate menu item 1 (Standard)property rotationDirectionPortrait : 2 -- rotate menu item 2 (90 degrees)-- the "main" part of the script-- activate System Preferencestell application "System Preferences"	activate	set current pane to pane "com.apple.preference.displays"end tell-- get all the display preference pane windows-- and rotate each corresponding displayset allDisplays to my getDisplays()repeat with i from 1 to length of allDisplays	my setDisplay(i)end repeattell application "System Preferences"	quitend tell-- this function gets a list of the display preferences windows.-- needed if you have more than one display that you want to-- rotate.  Note: PowerBooks will not rotate their built-in-- LCDs with this script.on getDisplays()	tell application "System Events"		get properties		tell process "System Preferences"			set allDisplays to every window		end tell	end tell	return allDisplaysend getDisplays-- This function simply clicks the pop-up button that-- controls rotation, and selects the next in order-- (either clockwise or counter-clockwise)on setDisplay(thisDisplay)	set rotatable to false	tell application "System Events"		get properties		tell process "System Preferences"
-			repeat until exists tab group 1 of window thisDisplay
-			end repeat			tell window thisDisplay				tell tab group 1					click radio button "Display" -- You may need to change this to your local language, i.e. "Monitor"										try						click pop up button 2 -- If this doesn't work, try button 2						tell pop up button 2 -- If this doesn't work, try button 2							repeat with i from 1 to 4								if selected of menu item i of menu 1 is true then									exit repeat								end if							end repeat							if i is equal to rotationDirectionLandscape then								-- is landscape now, switch to portrait mode								set rotateMenuItem to rotationDirectionPortrait							else								-- is not landscape now, switch to landscape								set rotateMenuItem to rotationDirectionLandscape							end if							click menu item rotateMenuItem of menu 1						end tell						-- If "Standard" is selected, no confirmation dialog is displayed.						-- if rotateMenuItem is not 1 then						set rotatable to true						-- end if					on error						log "Can't rotate display. It may be the laptop's built in display."					end try														end tell			end tell						if rotatable then				delay 2				-- After rotation, for some reason the confirmation dialog is always in window 1.				set success to 0				repeat until success is equal to 1					try						tell window 1							tell sheet 1								click button "Confirm"								set success to 1							end tell						end tell					on error errText						log errText						delay 1					end try				end repeat			end if					end tell	end tellend setDisplay</string>
-				<key>scriptargtype</key>
-				<integer>0</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>6</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>953E30AE-BBD0-4522-9408-A434C4D0EADE</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-	</array>
-	<key>readme</key>
-	<string></string>
-	<key>uidata</key>
-	<dict>
-		<key>6AF6CD1A-B591-4606-A916-39F8CDD640BA</key>
-		<dict>
-			<key>xpos</key>
-			<integer>300</integer>
-			<key>ypos</key>
-			<real>10</real>
-		</dict>
-		<key>953E30AE-BBD0-4522-9408-A434C4D0EADE</key>
-		<dict>
-			<key>xpos</key>
-			<integer>700</integer>
-			<key>ypos</key>
-			<real>10</real>
-		</dict>
-	</dict>
-	<key>webaddress</key>
-	<string></string>
-</dict>
-</plist>
